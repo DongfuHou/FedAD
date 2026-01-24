@@ -10,7 +10,7 @@ Federated Learning (FL) offers a promising privacy-preserving alternative, but i
 
 The **RP15** dataset was constructed to facilitate research and development in rice pest and disease identification, particularly in a federated learning context where data heterogeneity is common.
 
-*   **Size:** Contains **12,390** images.
+*   **Size:** Contains **12,239** images.
 *   **Categories:** Covers **15** different rice pest and disease categories.
 
 ### Repository Structure
