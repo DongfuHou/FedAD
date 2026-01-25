@@ -1,4 +1,4 @@
-# FedAD: Federated Learning with Adaptive Parameter Decomposition for Rice Pest and Disease Identification
+# FedAD: Federated Learning with Generative Data Augmentation and Adaptive Parameter Decomposition for Rice Pest and Disease Identification
 
 ## Abstract
 
