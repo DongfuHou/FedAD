@@ -51,6 +51,6 @@ On the **RP15** dataset, FedAD achieved the following performance metrics:
 
 ## Code and Dataset Availability
 
-The **RP15 dataset** is available in this repository.
+The RP15 dataset is available in this repository.
 
-**The source code will be released after organization.**
+The source code will be released upon the acceptance of the paper.
