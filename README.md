@@ -28,26 +28,6 @@ RP15/
 
 The folders named `00` through `14` represent the 15 distinct pest and disease classes.
 
-## Key Experimental Results
-
-Extensive experiments on **RP15** and the public PlantVillage dataset demonstrate FedAD’s superior performance and generalization.
-
-On the **RP15** dataset, FedAD achieved the following performance metrics:
-
-| Metric | Result |
-| :--- | :--- |
-| Top-1 Accuracy | **90.40%** |
-| F1-Score | **86.79%** |
-| Recall | **87.10%** |
-
-### Performance Highlights:
-
-*   **Accuracy:** Outperforms baseline methods by over **10%**.
-*   **Convergence:** Accelerates convergence by approximately **2 times**.
-*   **Theoretical Guarantee:** We provide a mathematical proof of the algorithm's convergence to a stationary point, guaranteeing training stability.
-*   **Privacy:** Validated robust privacy defense against gradient inversion attacks.
-
----
 
 ## Code and Dataset Availability
 
